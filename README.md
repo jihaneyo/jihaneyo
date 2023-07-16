@@ -1,4 +1,4 @@
-## so my feeling is 👋
+#### 아니 그게 아니고 내말은
 
 
  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
