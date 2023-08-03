@@ -1,11 +1,3 @@
-<style>
-p{
-  display: flex;
-  justify-content: center;
-}
-  
-</style>
-
 # 아니 그게 아니고 내말은
 
 ### 💪💪💪 Tech Stack 💪💪💪
